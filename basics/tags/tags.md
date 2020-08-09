@@ -14,6 +14,7 @@
 ### Short Tag (deprecated)
 ```PHP
 <?
+//short_open_tags = On in php.ini to activate it
 //code
 ?>
 ```
